@@ -1,5 +1,6 @@
 @extends('layouts.app')
-@livewire('site.sidebar')
+{{-- @livewire('site.sidebar') --}}
+{{-- @section('about') --}}
 <section name="about" id="about" class="about">
   <div class="container" data-aos="fade-up">
       <div class="section-title">
@@ -44,3 +45,4 @@
 
   </div>
 </section>
+{{-- @endsection --}}

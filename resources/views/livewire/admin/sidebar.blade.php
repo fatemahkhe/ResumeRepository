@@ -48,7 +48,7 @@
         </ul>
       </li><!-- End Components Nav -->
 
-     
+{{--      
 
       <li class="nav-item">
         <a class="nav-link collapsed" data-bs-target="#charts-nav" data-bs-toggle="collapse" href="#">
@@ -147,7 +147,7 @@
         </a>
       </li><!-- End Blank Page Nav -->
 
-    </ul>
+    </ul> --}}
 
   </aside><!-- End Sidebar-->
 </body>

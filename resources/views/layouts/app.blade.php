@@ -33,11 +33,11 @@
     </head>
     <body class="font-sans antialiased">
         <main id="app">
-            {{-- @yield('sidebar')
+            @yield('sidebar')
             @yield('hero')
             @yield('about')
             @yield('education') 
-            @yield('hero') --}}
+            @yield('hero')
           </main>
         
         <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

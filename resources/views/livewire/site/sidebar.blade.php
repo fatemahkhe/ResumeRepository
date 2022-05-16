@@ -18,11 +18,11 @@
         <ul>
             <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
             <li><a href="{{route('about')}}" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
-            <li><a href="#educations" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Educations</span></a></li>
-            <li><a href="#experiances" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Experiances</span></a></li>
-            <li><a href="#skills" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>skills</span></a></li>
-            <li><a href="#certificates" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Certificates</span></a></li>
-            <li><a href="#faqs" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>FAQs</span></a></li>
+            <li><a href="{{route('about')}}" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Educations</span></a></li>
+            <li><a href="{{route('about')}}" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Experiances</span></a></li>
+            <li><a href="{{route('about')}}" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>skills</span></a></li>
+            <li><a href="{{route('about')}}" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Certificates</span></a></li>
+            <li><a href="{{route('about')}}" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>FAQs</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
     </div>
